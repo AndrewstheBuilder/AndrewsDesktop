@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "22e38133f4ef226c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1192c6bf1b6113dc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f544e0bcc20f3160",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72f8597feddd87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b70debe948ef9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "435066088a96829c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 628
+  },
+  "right": {
+    "id": "1e369db08b9a578a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a7dd465fc3f96b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74315166d930d70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1192c6bf1b6113dc",
+  "lastOpenFiles": [
+    "Book Reviews/33 Strategies of War - Ch 2 - Never fight the last war (The-Guerrila-War-of-the-mind-strategy).md",
+    "Book Reviews/33 Strategies of War - Ch1- Declare War on your Enemies (The Polarity Strategy).md",
+    "Book Reviews/Atomic Habits - 1. Make it Obvious.md",
+    "Book Reviews/Can't Hurt Me - David Goggins.md",
+    "Book Reviews/The Name of the Wind.md",
+    "Book Reviews/The Laws of Human Nature - Ch2 - Transform Self-love into empathy.md",
+    "Book Reviews/Untitled.md",
+    "JiuJitsu/Untitled.md",
+    "PMO and MO.md",
+    "NandtoTetris.md"
+  ]
+}

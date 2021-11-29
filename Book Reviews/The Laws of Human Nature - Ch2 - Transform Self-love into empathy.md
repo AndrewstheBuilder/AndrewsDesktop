@@ -1,0 +1,5 @@
+We create a sense of self when we are really young(2 to 5 years old) that helps us to self-soothe. This sense of self can be transformed to create a sense of empathy towards others. Empathy can be developed. During conversations try to see the other person's point of view. This is visceral empathy and it has to be supplemented with analytical empathy which is knowing the details about the person. This way you can use heart thinking and head thinking.
+
+Narcisscists are people that never created this sense of self they have no self-love. We are all narcisscists but there are deep narcisscists that we should avoid. A **deep narcisscist** is someone who is completely self absorbed. They use people as extensions of themselves like other people are tools.
+
+This chapter is very deep and it may take some rereading to gather all this info. Or maybe not maybe it is not relevant to me at the moment. I can come back to it if I encounter a deep narcissist. The kid's brother in True Story is definitely a deep narcissist. 

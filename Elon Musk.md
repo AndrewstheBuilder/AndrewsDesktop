@@ -1,0 +1,1 @@
+- Elon said most smart engineers are good at optimizing because they were taught to answer the question by the school system. If they thought the question was dumb the teacher would fail them. 

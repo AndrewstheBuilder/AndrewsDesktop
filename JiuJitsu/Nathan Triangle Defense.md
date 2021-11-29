@@ -1,0 +1,2 @@
+- Keep both arms down. One arm has to go in and one arm has to go out for a successful triangle. (*Ref*: <iframe width="560" height="315" src="https://www.youtube.com/embed/dHF2nq6OvmI?start=306" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+	- If they get the triangle immediately stand and try to pull arms out.

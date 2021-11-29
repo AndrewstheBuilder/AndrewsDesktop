@@ -1,0 +1,10 @@
+- I don't have pride in myself. Its like there are certain things I thought were bad and I just completely ignored it. It keeps me from training hard, but also from getting injured. I am not sure its a completely good thing however. Lacking a sense of pride in myself keeps me from getting better at Jiu Jitsu and also keeps me focused on myself crazy as that sounds. I try to make up for this lack of pride by trying to be perfect I believe.
+- Julian is better looking than me and more confident. I wonder if he was always this confident. Its like he knows how cruel the world could be but he's also confident in his abilities to face that. That is what I want to be like. 
+- I am scared to compete. 
+- Does admitting things to myself help me? I believe so because self-awareness leads to change. 
+- I am kind of lame. Its hard to imagine a girl liking the kind of person I am right now. Apparently, according to John Danaher a person can reinvent himself with only 5 years. I wonder what he means by that. 
+- I am weak. My arms and legs feel like lead after a minute of Jiu Jitsu. I feel worse on days following when I give up PMO.
+- I looking at P yesterday and was about to crack. I don't remember if I did, but the intent alone was enough. I feel confident in myself when I am looking at P. Its like none of the insecurities exist. Thats sad. 
+- I can make myself cry if I take an honest look at myself. There are concrete things I need to change and things I need to try. I need to stop living in the world of abstract ideas and actually try and implement them. Is it Julian's love for the gym and his family that has pushed him to become the competitor he is today.
+- "I just feel so ashamed with myself. That shit is scary." But it is freeing. Why would I only say negative things when I am around other people. I feel like I am trying to push this narrative of "Yeah life is hard for me"
+- 25mg of this stuff was good. I was stoned. 

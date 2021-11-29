@@ -1,0 +1,2 @@
+- Break a move down into steps
+- Do the entry into a move forwards and backwards. 

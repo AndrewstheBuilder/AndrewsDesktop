@@ -1,0 +1,1 @@
+You must recognize who your enemies are. Without that there can be no fight and no emotional reason to fight. Polarzing the other side will help people your side rally to a cause. 

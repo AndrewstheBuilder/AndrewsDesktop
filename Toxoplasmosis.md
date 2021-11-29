@@ -1,0 +1,4 @@
+- Toxoplasmosis virus knows how to rewire a rats brain so that rat which is the viruses host can help complete the viruses lifecycle. It does it by affecting that parts of the rat's brain that is afraid of cats. It makes the rats sexually attracted to cat piss. Then the rats get eaten by the cats. And the virus has completed its lifecycle. 
+- Virus lifecycle goes -> Cat -> Cat Feces -> Rodent eats it -> Rodent gets attracted to cat piss -> Rodent gets raten -> Toxoplasmosis is back in the stomach of the cat 
+- How does the virus know exactly what to mutate?
+- Toxo knows fear circuitry really well. It makes Chimps less afraid of leopards.

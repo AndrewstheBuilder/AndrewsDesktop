@@ -1,0 +1,1 @@
+Habits can be intiated with cues. These cues can come from the environment and you can design your environment. There's also habit stacking where one habit is a cue for the other habit you are trying to build. The most important thing here is to make your cues obvious to build a habit and invisible to break a habit. 
